@@ -100,7 +100,7 @@ INSERT INTO SpotifyClone.`song_table` (`cancao_id`, `cancoes`, `duracao_segundos
 
 
 
-CREATE TABLE SpotifyClone.`playback_history_table` 
+CREATE TABLE SpotifyClone.`playback_history_table`
 (
     `pessoa_usuaria_id`	INT,
     `historico_de_reproducoes`	INT,
